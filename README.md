@@ -15,3 +15,8 @@ Each homework is presented in a folder, with .ipynb file as the main file, and s
 |   RLHF & LLMs     |  Nov 7   | Nov 19  |
 | Final presentation topic proposals |       |  Nov 26   | 
 |  Final presentations        |       | Week of Dec 9th |
+
+
+**HOMEWORK 1: Intro to PyTorch, Imitation Learning**
+
+Homework update: 9/29/2024. The main file is `STAT436-HW1.ipynb`. Some CartPole iteration videos can't be seen directly in the notebook, so please refer to the `videos`, `video_imitation`, and `video_constraint` folder for details.
